@@ -1,0 +1,4 @@
+ # Writing Papers in LaTeX #
+*.pdf
+*.aux
+*.log
